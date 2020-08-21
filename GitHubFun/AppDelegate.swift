@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Brian Kim on 2020-08-20.
-//  Copyright © 2020 Brian Kim. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
